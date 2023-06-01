@@ -1,0 +1,20 @@
+  558  git init
+  559  git status
+  560  git add .
+  561  git status
+  562  git commit -m "Commit 1 de veronicaValdez"
+  563  git log
+  564  git log --oneline
+  565  git push origin main
+  566  git remote add origin https://github.com/veronicajujuy/Examen-Intro-c1-3105.git
+  567  clear
+  568  git branch -M master
+  569  git branch -M main
+  570  git remote -v
+  571  git push origin main
+  572  git branch hotfix
+  573  git checkout hotfix
+  574  git branch
+  575  history
+  576  history 20
+  577  history 20 > Comandos\ utilizados/command.txt 

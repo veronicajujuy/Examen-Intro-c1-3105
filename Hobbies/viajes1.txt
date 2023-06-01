@@ -1,0 +1,7 @@
+./
+../
+.git/
+Comandos utilizados/
+Comidas Preferidas/
+Hobbies/
+Programas de tv favoritos/
